@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "next": "14.2.11",
     "react": "^18",
+    "react-bootstrap": "^2.10.4",
     "react-dom": "^18",
-    "next": "14.2.9"
+    "react-fast-marquee": "^1.6.5",
+    "swiper": "^11.1.14"
   },
   "devDependencies": {
     "eslint": "^8",
-    "eslint-config-next": "14.2.9"
+    "eslint-config-next": "14.2.11",
+    "sass": "^1.78.0"
   }
 }
